@@ -1,5 +1,5 @@
 # Employee Directory Spring Boot
-##Spring MVC CRUD Database Project(MySQL) with Thymeleaf
+## Spring MVC CRUD Database Project(MySQL) with Thymeleaf
 
 
 ## Directory for Employees where you can:
