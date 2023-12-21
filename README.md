@@ -1,5 +1,5 @@
-# Employee-Directory-Spring
-Spring MVC CRUD Database Project with Thymeleaf
+# Employee Directory Spring Boot
+Spring MVC CRUD Database Project(MySQL) with Thymeleaf
 
 # Directory for Employees where you can:
 ## list of Employees
@@ -8,8 +8,6 @@ Spring MVC CRUD Database Project with Thymeleaf
 ## delete of Employees
 ## list of Employees
 
-# HTML
 
-# MySQL
 
 
